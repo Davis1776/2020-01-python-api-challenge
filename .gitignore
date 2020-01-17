@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore API Keys file
+api_keys.py
+
+# Config py needs to be ignored
+config.py
+
+# Checkpoints
+.ipynb_checkpoints
+
 # C extensions
 *.so
 
