@@ -3,10 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Ignore API Keys file
-api_keys.py
-
-# Config py needs to be ignored
+# Config py needs to be ignored - API Keys
 config.py
 
 # Checkpoints
